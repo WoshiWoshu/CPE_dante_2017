@@ -1,5 +1,6 @@
 # CPE_dante_2017
 First year mini project in C which the goal is to generate and solve a maze. A folder with a binary named 'generator' will output a maze into a file.txt. Another folder with a binary named 'solver' will solve the maze while printing its output to the standard ouput. For a single maze, the ‘X’s represent the walls and the ’*’s represent the free spaces. “Start” is in the upper left-handcorner(0;0). “Finish” is in the bottom right-hand corner. The solution path is represented by a 'o' line.
+The generator is based on Kruskal's algorithm and the solver on backtracking algorithm.
 
 USING :
 
