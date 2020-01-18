@@ -18,3 +18,4 @@ NOTE :
 
     - An imperfect maze must contain clusters.
 
+![Image description](cover.png)
